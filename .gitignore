@@ -49,3 +49,6 @@ build/*
 
 *.qm
 .qm
+
+# Local tooling caches
+.cache/
